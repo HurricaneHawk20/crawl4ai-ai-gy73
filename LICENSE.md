@@ -1,4 +1,4 @@
-# 
+# Automatic Crawl4AI workflow. Featuring plugin-system and multi-modal-support — optimized for maximum performance and efficiency.
 
 
 
